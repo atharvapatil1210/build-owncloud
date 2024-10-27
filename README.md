@@ -1,7 +1,6 @@
 ### 📂 **Build Own Cloud**
 
 ---
-### video link : https://www.linkedin.com/posts/atharvabodade12_cloud-aws-ssgmce-activity-7157182024187797504-Mymg?utm_source=share&utm_medium=member_desktop
 ![architecture](arch.png)
 
 #### **1. Client Access Layer**
@@ -62,3 +61,6 @@
 - **Remote Access**: Users can securely access files from anywhere, similar to traditional cloud storage services.
 
 This architecture provides a secure, flexible, and cost-effective setup for a self-hosted cloud solution with enterprise-level data governance features, ideal for organizations seeking control over their data storage.
+
+### video link : https://www.linkedin.com/posts/atharvabodade12_cloud-aws-ssgmce-activity-7157182024187797504-Mymg?utm_source=share&utm_medium=member_desktop
+
