@@ -1,6 +1,7 @@
 ### 📂 **Build Own Cloud**
 
 ---
+### video link : https://www.linkedin.com/posts/atharvabodade12_cloud-aws-ssgmce-activity-7157182024187797504-Mymg?utm_source=share&utm_medium=member_desktop
 ![architecture](arch.png)
 
 #### **1. Client Access Layer**
